@@ -1,1 +1,2 @@
 pip install opencv-python mediapipe pyautogui
+first try to run using venv
